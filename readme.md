@@ -7,9 +7,7 @@ This bundle is to refresh the old bundle [DoctrineEncryptBundle](https://github.
 Install the bundle for Composer !! as is still on beta version !!
 
 ````
-  composer require xorgxx/neox-doctrine-secure-bundle
-  or 
-  composer require xorgxx/neox-doctrine-secure-bundle:0.*
+  composer require xorgxx/neox-doctrine-secure-bundle:dev-master
 ````
 🚨 You will heva to add in your projet 🚨
 ````
